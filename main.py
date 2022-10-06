@@ -17,4 +17,5 @@ if des == 's':
 else:
   print("Tchau")
 
+print("Testizin")
 
